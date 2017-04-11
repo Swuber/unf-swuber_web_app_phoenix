@@ -20,6 +20,13 @@ Dather dependencies and start the server
 2.implement channels into the app in order to incorporate swuber implementation.<br>
 3. <br>
 
+http://slack.elixirhq.com/phoenix/2016-06-26/
+# Done so far notes
+1.) look at endpoint... but dont touch<br>
+2.) change channels<br>
+3.) change static javascript<br>
+4.) change template web page<br>
+
 # UnfSwuber
 
 To start your Phoenix app:
