@@ -1,0 +1,58 @@
+<h2>Show user</h2>
+
+<ul>
+
+  <li>
+    <strong>N number:</strong>
+    <%= @user.n_number %>
+  </li>
+
+  <li>
+    <strong>Phone number:</strong>
+    <%= @user.phone_number %>
+  </li>
+
+  <li>
+    <strong>Email:</strong>
+    <%= @user.email %>
+  </li>
+
+  <li>
+    <strong>First name:</strong>
+    <%= @user.first_name %>
+  </li>
+
+  <li>
+    <strong>Last name:</strong>
+    <%= @user.last_name %>
+  </li>
+
+  <li>
+    <strong>Rating:</strong>
+    <%= @user.rating %>
+  </li>
+
+  <li>
+    <strong>Password hash:</strong>
+    <%= @user.password_hash %>
+  </li>
+
+  <li>
+    <strong>Tag number:</strong>
+    <%= @user.tag_number %>
+  </li>
+
+  <li>
+    <strong>Tag color:</strong>
+    <%= @user.tag_color %>
+  </li>
+
+  <li>
+    <strong>Is admin:</strong>
+    <%= @user.is_admin %>
+  </li>
+
+</ul>
+
+<%= link "Edit", to: user_path(@conn, :edit, @user) %>
+<%= link "Back", to: user_path(@conn, :index) %>
