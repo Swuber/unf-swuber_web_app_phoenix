@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Hello UnfSwuber!</title>
+    <title>Swuber</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
 
@@ -19,7 +19,7 @@
             <%= link "Register", to: user_path(@conn, :new) %>       
 	  </ul>
         </nav>
-        <span class="logo"></span>
+	<img src = "/images/logo.png" style = "width: 90%;">
       </header>
 
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
