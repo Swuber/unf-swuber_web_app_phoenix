@@ -1,5 +1,7 @@
-<div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}", name: "Phoenix!" %></h2>
-  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+<div>
+  <h2><%= gettext "Why Unf Swuber?" %></h2>
+<p>It started in parking lot 14; on the way to class I asked a friend if they could give me a ride. the friend was not leaving but also going to class. As a result we walked together and not alone. Later when leaving the library I was forced to walk alone by lack of communication and lack of traffic at that hour.</p>
+<p>I did not want to walk to my car. I waited outside the library for someone I knew. Eventually I gave up but the idea was born. Generosity(reputation) and the capital of my parking spot could be used to get me to my car without having to walk alone.</p>
+<p>For years people have tried to solve the problem of finding a parking spot at the University of North Florida.</p>
 </div>
 
