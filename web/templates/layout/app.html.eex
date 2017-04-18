@@ -15,8 +15,13 @@
     <div class="container">
       <header class="header">
         <nav role="navigation">
-          <ul class="nav nav-pills pull-right">
-            <%= link "Register", to: user_path(@conn, :new) %>       
+          <ul class="nav nav-pills pull-right"> 
+            <div style="font-size:12px; position: absolute; top: 20px; right: 0px;">
+              <a href="images/GMaps.html">Your Location</a>
+	      <br><br>
+              <%= link "Register", to: user_path(@conn, :new) %> 
+	      <br><br>
+            </div>	    
 	  </ul>
         </nav>
 	<img src = "/images/logo.png" style = "width: 90%;">
