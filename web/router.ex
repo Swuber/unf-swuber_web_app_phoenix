@@ -19,6 +19,7 @@ defmodule UnfSwuber.Router do
     get "/", PageController, :index
     get "/chat", ChatController, :index
     resources "/users", UserController
+    get "/maps", MapController, :index
   end
 
   # Other scopes may use custom stacks.
