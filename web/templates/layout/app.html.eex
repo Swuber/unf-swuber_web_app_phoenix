@@ -19,8 +19,6 @@
             <div style="font-size:12px; position: absolute; top: 20px; right: 0px;">
 	      <%= link "Your Location", to: map_path(@conn, :index) %>
 	      <br><br>
-              <%= link "Register", to: user_path(@conn, :new) %> 
-	      <br><br>
               <%= link "Chat with others", to: chat_path(@conn, :index) %> 
             </div>	    
 	  </ul>

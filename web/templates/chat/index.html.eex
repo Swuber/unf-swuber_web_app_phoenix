@@ -2,7 +2,7 @@
 </div>
 <div id="footer">
   <div class="container">
-    <div style="position: absolute; bottom: 20px; width:90%;" class="row">
+    <div style="position: absolute; bottom: 20px; width:90%; width:740px;" class="row">
       <div class="col-sm-2">
         <div class="input-group">
           <span class="input-group-addon">@</span>
