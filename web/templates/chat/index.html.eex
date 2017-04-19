@@ -1,4 +1,4 @@
-<div id="messages" class="container">
+<div id="messages" class="container" style="color:green">
 </div>
 <div id="footer">
   <div class="container">
