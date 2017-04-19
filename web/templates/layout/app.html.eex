@@ -21,6 +21,7 @@
 	      <br><br>
               <%= link "Register", to: user_path(@conn, :new) %> 
 	      <br><br>
+              <%= link "Chat with others", to: chat_path(@conn, :index) %> 
             </div>	    
 	  </ul>
         </nav>
