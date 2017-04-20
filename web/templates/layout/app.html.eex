@@ -35,5 +35,6 @@
 
     </div> <!-- /container -->
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+<br><br><br><img src = "/images/logo-58e09311465b1d31a2ed2d2ac9fe6b4f.png" style = "width: 90%;">
   </body>
 </html>
