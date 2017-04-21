@@ -29,5 +29,18 @@
         <strong>Advertising:</strong><a href="mailto:Advertising@swuber.com">Advertising@swuber.com</a>
 
     </div>
+<br>
+  <p>S W U B E R is property of Swoop Corp. | Find us on Social Media
+    <p>
+    <a href="https://unf-swuber.herokuapp.com"><img src="images/swuber1.jpg" border="0" width="50" height="50"></a>
+    <a href="http://www.twitter.com/SwuberCorp"><img src="images/twittericon.png" border="0" width="50" height="50"></a>
+    <a href="http://www.instagram.com"><img src="images/instagram.png" border="0" width="50" height="50"></a>
+    <a href="http://www.facebook.com"><img src="images/facebook.png" border="0" width="50" height="50"></a>
+    </p>
+  </p>
 
+<br><br><br>
+  <div style="position: absolute; bottom: 10px;">
+    <p><img src="/images/adgoeshere.png" border="0" width="400" height="50"align="right" ></p>
+  </div>
 </div>
