@@ -17,9 +17,3 @@
 <center>
 <input id="message-input" class="form-control" style="width:70%; justify-content:center;"/>
 </center>
-  <div style="position: absolute; right: 30px; top: 125px;">
-    <p><img src="/images/adgoeshere_right.png" border="0" width="25" height="200"></p>
-  </div>
-  <div style="position: absolute; left: 30px; top: 125px;">
-    <p><img src="/images/adgoeshere_left.png" border="0" width="25" height="200"></p>
-  </div>
