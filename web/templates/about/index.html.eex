@@ -1,0 +1,35 @@
+<div>
+<h3 style="text-align:center;"><i>Mission: “To make parking more manageable and campus a smaller place; solving a walking problem by fixing a parking problem. Fast, quick, and easy. A spot for a driver with a maximum 5 minute wait."</i></h3>
+<p style="text-align:center;" >We started as a project in April 2017 for a web programming class at the Univeristy of North Florida</p>
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="/images/about1.png" border="0" width="300" height="300">
+        <h4>Less Walking</h4>
+
+        <p>Too hot? Storming outside? No problem! With our app, you can now be picked up by another student who is in need of a parking spot. So not only does help them out, it saves you the long trek across campus.</p>
+
+    </div>
+<div class="col-md-4">
+    <img src="/images/about2.png" border="0" width="300" height="300">
+        <h4>More Parking</h4>
+        <p>You don't need to circle around the parking lot 10 times just to find a spot or follow a person around just to find out they are getting something from their car and not actually leaving. Just connect with another student
+    leaving campus, pick them up, and you got yourself a hassle-free place to park your vehicle!</p>
+
+    </div>
+<div class="col-md-4">
+    <img src="/images/about3.png" border="0" width="300" height="300">
+        <h4>Happy Campus</h4>
+        <p>We strive to provide a much-needed service to the Alumni and current students at the University of North Florida regarding parking. Our website gives the students the ability to assist each other in finding the best parking spot available while charging no fees to encourage engagement in the community</p>
+
+    </div>
+
+
+</div>
+<br />
+<h5 style="text-align:center;">{ Some videos on UNF's parking problem to help you understand WHY you need Swuber in your life. }</h5>
+<br />
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NvAXu6vdZAU" frameborder="0" allowfullscreen></iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/ztYm3dFPyF8" frameborder="0" allowfullscreen></iframe>
+</div>

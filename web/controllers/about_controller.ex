@@ -1,4 +1,4 @@
-defmodule UnfSwuber.MapController do
+defmodule UnfSwuber.AboutController do
   use UnfSwuber.Web, :controller
 
   def index(conn, _params) do

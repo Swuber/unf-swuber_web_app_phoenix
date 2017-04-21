@@ -20,6 +20,10 @@
 	      <%= link "Your Location", to: map_path(@conn, :index) %>
 	      <br><br>
               <%= link "Chat with others", to: chat_path(@conn, :index) %> 
+	      <br><br>
+              <%= link "About Swuber", to: about_path(@conn, :index) %> 
+	      <br><br>
+              <%= link "Contact Us", to: contact_path(@conn, :index) %> 
             </div>	    
 	  </ul>
         </nav>
@@ -35,6 +39,5 @@
 
     </div> <!-- /container -->
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
-<br><br><br><img src = "/images/logo-58e09311465b1d31a2ed2d2ac9fe6b4f.png" style = "width: 90%;">
   </body>
 </html>

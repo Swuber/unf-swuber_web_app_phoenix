@@ -1,0 +1,33 @@
+<h3 style="text-align:center;"><i>Questions? Comments? Concerns?</i></h3>
+<p style="text-align:center"><img src="/images/SWOOPCO.jpg" border="0" width="200" height="50"></p>
+<address style="text-align:center">
+    One UNF Drive<br />
+    Jacksonville, Fl 32224<br />
+    <abbr title="Phone">P:</abbr>
+    555.555.0100
+</address>
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="/images/support.png" border="0" width="200" height="200">
+        <h4>Support</h4>
+
+        <strong>Support:</strong>   <a href="mailto:Support@swuber.com">Support@swuber.com</a><br />
+
+    </div>
+    <div class="col-md-4">
+        <img src="/images/marketing.png" border="0" width="200" height="200">
+        <h4>Marketing</h4>
+
+        <strong>Marketing:</strong> <a href="mailto:Marketing@swuber.com">Marketing@swuber.com</a>
+    </div>
+    <div class="col-md-4">
+        <img src="/images/advertising.png" border="0" width="200" height="200">
+        <h4>Advertising</h4>
+
+        <strong>Advertising:</strong><a href="mailto:Advertising@swuber.com">Advertising@swuber.com</a>
+
+    </div>
+
+</div>
