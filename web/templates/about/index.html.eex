@@ -1,5 +1,5 @@
-<div>
-<h3 style="text-align:center;"><i>Mission: “To make parking more manageable and campus a smaller place; solving a walking problem by fixing a parking problem. Fast, quick, and easy. A spot for a driver with a maximum 5 minute wait."</i></h3>
+<div style="height:100%">
+<h3 style="font-size:19px; text-align:center;"><i>Mission: “To make parking more manageable and campus a smaller place; solving a walking problem by fixing a parking problem. Fast, quick, and easy. A spot for a driver with a maximum 5 minute wait."</i></h3>
 <p style="text-align:center;" >We started as a project in April 2017 for a web programming class at the Univeristy of North Florida</p>
 <br />
 
@@ -31,5 +31,7 @@
 <h5 style="text-align:center;">{ Some videos on UNF's parking problem to help you understand WHY you need Swuber in your life. }</h5>
 <br />
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NvAXu6vdZAU" frameborder="0" allowfullscreen></iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/ztYm3dFPyF8" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400px"; src="https://www.youtube.com/embed/NvAXu6vdZAU" frameborder="0" allowfullscreen></iframe>   
+<br><br><br><iframe width="100%" height="400px"; src="https://www.youtube.com/embed/ztYm3dFPyF8" frameborder="0" allowfullscreen></iframe>
+
 </div>

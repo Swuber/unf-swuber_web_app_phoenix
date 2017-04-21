@@ -16,7 +16,7 @@
       <header class="header">
         <nav role="navigation">
           <ul class="nav nav-pills pull-right"> 
-            <div style="font-size:12px; position: absolute; top: 20px; right: 0px;">
+            <div style="font-size:8px; position: absolute; top: 10px; right: 0px;">
 	      <%= link "Your Location", to: map_path(@conn, :index) %>
 	      <br><br>
               <%= link "Chat with others", to: chat_path(@conn, :index) %> 
@@ -27,13 +27,13 @@
             </div>	    
 	  </ul>
         </nav>
-	<img src = "/images/logo.png" style = "width: 90%;">
       </header>
+	<img src = "/images/logo.png" style = "width: 90%;">
 
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
       <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>
 
-      <main role="main">
+      <main role="main" style="height:60%">
         <%= render @view_module, @view_template, assigns %>
       </main>
 
